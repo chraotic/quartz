@@ -2,12 +2,13 @@
 title: Example Title
 draft: false
 tags:
+  - example-tag
 ---
  
 
 
-_Co-founder of [Mango Lab](https://www.mango-lab.com/), a human-centered research and policy design practice_
-_PhD student in Sociology at Graduate Center, CUNY._
+Designer at [Mango Lab](https://www.mango-lab.com/), a human-centered research and policy design practice.
+PhD student in Sociology at Graduate Center, CUNY.
 
 ---
 
